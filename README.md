@@ -1,6 +1,6 @@
 # Private Repository for ML Instruction
 
-### DS/DA/MLE Interview Cheatsheet
+### DS/MLE Interview Cheatsheet
 
 #### CORE Technical Knowledge: (Know them cold, A.K.A, whiteboard them from scratch; no other way around)
 1. Probability: Distributions, Brainteaser Problems, Bayesian/Conditional Probability, Maximum Likelihood
@@ -17,6 +17,6 @@
 #### CORE Coding Skills: (Know them cold, A.K.A, efficient syntax + bug free; no other way around)
 1. SQL/Spark-SQL: join, group by, window functions, self-join, date functions
 2. Pandas/R: basic <-> advanced data manipulation (anything written in SQL, rewrite them in Pandas/R)
-3. Optional for DA and some DS; Required for all MLEs, Leetcode (Algorithms: BFS, DFS, Heap/Merge-sort, DP; Data Structures: ListNode, BST, Hashtables; Complexity Analysis: Time-Space, NP-Hard)
+3. Optional for some DS; Required for all MLEs, Leetcode (Algorithms: BFS, DFS, Heap/Merge-sort, DP; Data Structures: ListNode, BST, Hashtables; Complexity Analysis: Time-Space, NP-Hard)
 
 #### CORE Analytical Skills
