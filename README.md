@@ -6,7 +6,7 @@
 1. Probability: Distributions, Brainteaser Problems, Bayesian/Conditional Probability, Maximum Likelihood
 2. Basic Statistics: CLT, Hypothesis Testing, Statistical Moments (Mean, Median, Mode, Quantiles, Variance, Covariance, Correlation, Skewness)
 3. Advanced Statistics: Ordered Statistics, Sampling Methods, Importance Sampling, MCMC, Bayesian Statistics, Nonparametric Testing, PSM
-4. Regression: OLS, logit, GLS, WLS, Possion regression, ordered regression; model interpretation 
+4. Regression: OLS, Logit, GLS, WLS, Possion regression, ordered regression; model interpretation 
 5. ML Supervised: KNN, Naive Bayes, logistic regression, decision tree and CART, DNN, CNN, RNN, SVM
 6. ML Unsupervised: Kmeans, Gaussian Mixture, PCA
 7. Numerical methods: GD, SGD, Batch GD, dropout, Batch normalization, under-sampling, over-sampling
