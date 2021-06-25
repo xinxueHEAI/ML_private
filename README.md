@@ -30,3 +30,9 @@
 2. What would you do when a metric drop?
 - How do you develop your hypotheses?
 - How do you test your hypotheses, and what are the caveats when you set up your tests?
+
+#### CORE Soft Skills:
+1. How do you demonstrate that you are a team player?
+2. How do you communicate technical knowledge to non-technical audience?
+3. How can you convince people using evidence from data, and handle challenges from different parties?
+4. How can you move quick in taking measured risks and fix mistakes?
