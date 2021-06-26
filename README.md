@@ -31,7 +31,7 @@
 - How do you develop your hypotheses?
 - How do you test your hypotheses, and what are the caveats when you set up your tests?
 
-#### CORE Soft Skills:
+#### Soft Skills and Behavioral Prep:
 1. How do you demonstrate that you are a team player?
 2. How do you communicate technical knowledge to non-technical audience?
 3. How can you convince people using evidence from data, and handle challenges from different parties?
