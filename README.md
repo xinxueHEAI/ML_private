@@ -25,7 +25,7 @@
 2. Pandas/R: basic <--> advanced data manipulation (anything written in SQL, rewrite them in Pandas/R)
 3. Optional for some DS; Required for all MLEs, Leetcode (Algorithms: BFS, DFS, Heap/Merge-sort, DP; Data Structures: ListNode, BST, Hashtables; Complexity Analysis: Time-Space, NP-Hard)
 4. Optional for DS; Required for most MLEs: System design, Kafka and real-time serving
-5. Nice to have: vim, git, bash
+5. Nice to know: vim, git, bash
 
 #### CORE Analytical Skills: (On par with techinical competency; You need to know how to communicate)
 1. Understand the product and business questions
@@ -43,3 +43,13 @@
 2. How do you communicate technical knowledge to non-technical audience?
 3. How can you convince people using evidence from data, and handle challenges from different parties?
 4. How can you move quick in taking measured risks and fix mistakes?
+
+#### During the interviews
+1. If you know you do not know the answer, say that! Don't guess or dance with the experts.
+2. Do not write something you just heard of on your resume. 
+3. Communication is the key. You need to explain your thought process. 
+4. Always ask for clarification! Re-interate and make sure they know that you understand. 
+5. Make propositions and look for signals. Typically an interviewer wants to hear certain answers. 
+6. Sense the signals from the interviews
+- Some interviewers prefer a focused solutions; deepdive in this case. 
+- Some interviewers prefer a wide-range of solutions; you need to brainstorm. 
