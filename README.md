@@ -2,6 +2,8 @@
 
 ### DS/MLE Interview Cheatsheet
 
+*The term 'Data Scientist' is too broad*
+
 #### CORE Technical Knowledge: (Know them cold, A.K.A, whiteboard them from scratch; no other way around)
 1. Probability: Distributions, Brainteaser Problems, Bayesian/Conditional Probability, Maximum Likelihood
 2. Basic Statistics: CLT, Hypothesis Testing, Statistical Moments (Mean, Median, Mode, Quantiles, Variance, Covariance, Correlation, Skewness)
