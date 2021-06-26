@@ -22,7 +22,7 @@
 
 #### CORE Coding Skills: (Know them cold, A.K.A, efficient syntax + bug free; no other way around)
 1. SQL/Scala/Spark-SQL: join, group by, window functions, self-join, date functions
-2. Pandas/R: basic <-> advanced data manipulation (anything written in SQL, rewrite them in Pandas/R)
+2. Pandas/R: basic $\leftrightarrow$ advanced data manipulation (anything written in SQL, rewrite them in Pandas/R)
 3. Optional for some DS; Required for all MLEs, Leetcode (Algorithms: BFS, DFS, Heap/Merge-sort, DP; Data Structures: ListNode, BST, Hashtables; Complexity Analysis: Time-Space, NP-Hard)
 4. Optional for DS; Required for most MLEs: System design, Kafka and real-time serving
 5. Nice to have: vim, git, bash
