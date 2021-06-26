@@ -15,10 +15,11 @@
 10. Advanced A/B Testing: Multiple testing, Sequential testing, Doubly-Robust estimator, Double ML, causal tree/forest
 
 #### CORE Coding Skills: (Know them cold, A.K.A, efficient syntax + bug free; no other way around)
-1. SQL/Spark-SQL: join, group by, window functions, self-join, date functions
+1. SQL/Scala/Spark-SQL: join, group by, window functions, self-join, date functions
 2. Pandas/R: basic <-> advanced data manipulation (anything written in SQL, rewrite them in Pandas/R)
 3. Optional for some DS; Required for all MLEs, Leetcode (Algorithms: BFS, DFS, Heap/Merge-sort, DP; Data Structures: ListNode, BST, Hashtables; Complexity Analysis: Time-Space, NP-Hard)
-4. Nice to have: vim, git, bash
+4. Optional for DS; Required for most MLEs: System design, Kafka and real-time serving
+5. Nice to have: vim, git, bash
 
 #### CORE Analytical Skills: (On par with techinical competency; You need to know how to communicate)
 1. Understand the product and business questions
