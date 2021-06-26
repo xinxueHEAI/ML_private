@@ -2,7 +2,11 @@
 
 ### DS/MLE Interview Cheatsheet
 
-*The term 'Data Scientist' is too broad*
+*The term 'Data Scientist' is too broad. You NEED to know what your expertise is and what kind of DS aligns better with your career goals. That is, before apply for the positions, you need to read carefully about the job descriptions. In general, here are what the job description would indicate*
+- Data Scientist (Analytics): product driven, very analytical, visualization, sql intensive, ab testing
+- Data Scientist (Engineering): statistical + ML modeling, ab testing, optimization
+- Machine Learning Engineer:  deep learning related, CV or NLP, real time serving, recommendation system
+- Research Scientist/ Applied Scientist/ Data Scientist (Research/ Core): research driven, methodology development; robotics + reinforcement learning; typically requires doctorate in CS, EE, Stats
 
 #### CORE Technical Knowledge: (Know them cold, A.K.A, whiteboard them from scratch; no other way around)
 1. Probability: Distributions, Brainteaser Problems, Bayesian/Conditional Probability, Maximum Likelihood
