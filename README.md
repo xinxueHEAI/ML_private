@@ -8,7 +8,7 @@
 - Machine Learning Engineer:  DL, CV and/or NLP, real time serving, recommendation system; full-stack of ML serving pipelines
 - Research Scientist/ Applied Scientist/ Data Scientist (Research/ Core): research driven, frontier methodology development; robotics + reinforcement learning; typically requires a PhD in CS, EE, Stats, Physics or Applied Math
 
-#### CORE Technical Knowledge: (Know them cold, A.K.A, whiteboard them from scratch; no other way around)
+#### CORE Technical Knowledge: (**Know them cold**, A.K.A, whiteboard them from scratch; no other way around)
 1. Probability: Distributions, Brainteaser Problems, Bayesian/Conditional Probability, Maximum Likelihood
 2. Basic Statistics: CLT, Hypothesis Testing, Statistical Moments (Mean, Median, Mode, Quantiles, Variance, Covariance, Correlation, Skewness)
 3. Advanced Statistics: Ordered Statistics, Sampling Methods, Importance Sampling, MCMC, Bayesian Statistics, Nonparametric Testing, PSM
