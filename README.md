@@ -45,7 +45,7 @@
 4. How can you move quick in taking measured risks and fix mistakes?
 
 #### During the interviews
-1. If you know you do not know the answer, say that! Don't guess or dance with the experts.
+1. If you know you do not know the answer, say that you don't know! Don't guess or dance with the experts.
 2. Do not write something you just heard of on your resume. 
 3. Communication is the key. You need to explain your thought process. 
 4. Always ask for clarification! Re-interate and make sure they know that you understand. 
