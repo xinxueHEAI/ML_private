@@ -50,7 +50,7 @@
 3. Communication is the key. You need to explain your thought process. 
 4. Always ask for clarification! Re-interate and make sure they know that you understand. 
 5. Make propositions and look for signals. Typically an interviewer wants to hear certain answers. Your interview score largely depends on these key points.
-6. Sense the signals from the interviews
+6. Sense the signals from the interviews. If no signal is given, it is okay to ask for suggestions explicitly. You don't want to waste 15 minutes on a wrong track. Often pause, make sure you are heard, and prompt for questions.
 - Some interviewers prefer a focused solutions; deepdive in this case. 
 - Some interviewers prefer a wide-range of solutions; you need to activated your neurons and brainstorm.
 7. The last thing you want to be is a jerk. Don't be cocky or easily irritated. You are expected to be coachable. 
