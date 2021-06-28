@@ -52,4 +52,7 @@
 5. Make propositions and look for signals. Typically an interviewer wants to hear certain answers. 
 6. Sense the signals from the interviews
 - Some interviewers prefer a focused solutions; deepdive in this case. 
-- Some interviewers prefer a wide-range of solutions; you need to brainstorm. 
+- Some interviewers prefer a wide-range of solutions; you need to activated your neurons and brainstorm.
+7. The last thing you want to be is a jerk. Don't be cocky or easily irritated. You are expected to be coachable. 
+8. Don't intend to show off. You want to impress people by being yourself and leading a healthy and constructive discussion. 
+9. Regardless how tough the questions are, most interviewers will appear to be nice and warm; some are cold with a poker face; and some are straighly mean. You should be able to keep your composure and stay focused. 
