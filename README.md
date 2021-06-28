@@ -49,7 +49,7 @@
 2. To avoid 1., do not write something you just heard of on your resume. 
 3. Communication is the key. You need to explain your thought process. 
 4. Always ask for clarification! Re-interate and make sure they know that you understand. 
-5. Make propositions and look for signals. Typically an interviewer wants to hear certain answers. Your interview score largely depends on these key answers.
+5. Make propositions and look for signals. Typically an interviewer wants to hear certain answers. Your interview score largely depends on these key points.
 6. Sense the signals from the interviews
 - Some interviewers prefer a focused solutions; deepdive in this case. 
 - Some interviewers prefer a wide-range of solutions; you need to activated your neurons and brainstorm.
