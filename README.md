@@ -46,7 +46,7 @@
 
 #### During the interviews
 1. If you know you do not know the answer, say that you don't know! Don't guess or dance with the experts. You will surely make a joke of yourself.
-2. To avoid 1., Do not write something you just heard of on your resume. 
+2. To avoid 1., do not write something you just heard of on your resume. 
 3. Communication is the key. You need to explain your thought process. 
 4. Always ask for clarification! Re-interate and make sure they know that you understand. 
 5. Make propositions and look for signals. Typically an interviewer wants to hear certain answers. 
@@ -55,4 +55,7 @@
 - Some interviewers prefer a wide-range of solutions; you need to activated your neurons and brainstorm.
 7. The last thing you want to be is a jerk. Don't be cocky or easily irritated. You are expected to be coachable. 
 8. Don't intend to show off. You want to impress people by being yourself and leading a healthy and constructive discussion. 
-9. Regardless how tough the questions are, most interviewers will appear to be nice and warm; some are cold with a poker face; and some are straighly mean. You should be able to keep your composure and stay focused. 
+9. Regardless how tough the questions are, most interviewers will appear to be nice and warm; some are cold with a poker face; and some are straighly mean and unprofessional. You should be able to keep your composure and stay focused. 
+10. Your interviewers are likely to treat you as if you are a colleague. You are not a robot, share a laugh and be a human being. 
+
+The interviewing process is costly to both interviewers and interviewees. Be stressed out and well-prepared before the interview, and enjoy the conversation!
