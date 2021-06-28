@@ -46,7 +46,7 @@
 
 #### During the interviews
 1. If you know you do not know the answer, say that you don't know! Don't guess or dance with the experts. You will surely make a joke of yourself.
-2. Do not write something you just heard of on your resume. 
+2. To avoid 1., Do not write something you just heard of on your resume. 
 3. Communication is the key. You need to explain your thought process. 
 4. Always ask for clarification! Re-interate and make sure they know that you understand. 
 5. Make propositions and look for signals. Typically an interviewer wants to hear certain answers. 
