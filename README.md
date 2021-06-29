@@ -2,7 +2,7 @@
 
 ### DS/MLE Interview Cheatsheet
 
-*The term 'Data Scientist' is too broad. You NEED to know what your expertise is and what kind of DS aligns better with your career goals. That is, before applying for the positions, read carefully about the job descriptions. In general, here are what the job description would indicate*
+*The term 'Data Scientist' is too broad. You NEED to know what your expertise is and what kind of DS aligns better with your career goals. That is, before applying for positions, read the job descriptions carefully. In general, here is what the job description would indicate*
 - Data Scientist (Analytics): product driven, very analytical, visualization, sql intensive, ab testing, work intensively with product manager + products + propose/ validate ideas around products
 - Data Scientist (Engineering): statistical + ML modeling, ab testing, optimization; work along with engineers; write production code
 - Machine Learning Engineer:  DL, CV and/or NLP, real time serving, recommendation system; full-stack of ML serving pipelines
@@ -34,25 +34,25 @@
 - What data do you need? How do you want to set up the ETL?
 - Before launching a new product, what tests do you want to do?
 
-2. What would you do when a metric drop?
+2. What would you do when a metric drops?
 - How do you develop your hypotheses?
 - How do you test your hypotheses, and what are the caveats when you set up your tests?
 
 #### Soft Skills and Behavioral Prep:
 1. How do you demonstrate that you are a team player?
-2. How do you communicate technical knowledge to non-technical audience?
-3. How can you convince people using evidence from data, and handle challenges from different parties?
-4. How can you move quick in taking measured risks and fix mistakes?
+2. How do you communicate technical knowledge to non-technical audiences?
+3. How can you convince people using evidence from data and handle challenges from different parties?
+4. How can you move quickly in taking measured risks and fixing mistakes?
 
 #### During the interviews
 1. If you know you do not know the answer, say that you don't know! Don't guess or dance with the experts. You will surely make a joke of yourself.
 2. To avoid 1., do not write something you just heard of on your resume. 
 3. Communication is the key. You need to explain your thought process. 
-4. Always ask for clarification! Re-interate and make sure they know that you understand. 
+4. Always ask for clarification! Reiterate and make sure they know that you understand. 
 5. Make propositions and look for signals. Typically an interviewer wants to hear certain answers. Your interview score largely depends on these key points.
 6. Sense the signals from the interviews. If no signal is given, it is okay to ask for suggestions explicitly. You don't want to waste 15 minutes on a wrong track. Often pause, make sure you are heard, and prompt for questions.
-- Some interviewers prefer a focused solutions; deepdive in this case. 
-- Some interviewers prefer a wide-range of solutions; you need to activated your neurons and brainstorm.
+- Some interviewers prefer focused solutions; deepdive in this case. 
+- Some interviewers prefer a wide-range of solutions; you need to activate your neurons and brainstorm.
 7. The last thing you want to be is a jerk. Don't be cocky or easily irritated. You are expected to be coachable. 
 8. Don't intend to show off. You want to impress people by being yourself and leading a healthy and constructive discussion. 
 9. Regardless how tough the questions are, most interviewers will appear to be nice and warm; some are cold with a poker face; and some are straighly mean and unprofessional. You should be able to keep your composure and stay focused. 
