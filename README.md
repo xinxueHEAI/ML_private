@@ -1,4 +1,4 @@
-# Private Repository for ML Instruction
+# Private Repository for MLE/DS Interview Prep
 
 ### DS/MLE Interview Cheatsheet
 
